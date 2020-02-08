@@ -7,7 +7,7 @@ class navbar extends Component {
              <span className="navbar-brand" >
                  updete navbar 
              
-                <span className="badge badge-pill badge-secondary">
+                <span className="badge badge-pill badge-secondary m-2">
                      {this.props.totalCounters}
                  </span>
                  
