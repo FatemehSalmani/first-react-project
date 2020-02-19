@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/first-react-project/static/css/main.d1b05096.chunk.css",
-    "main.js": "/first-react-project/static/js/main.6ef3a309.chunk.js",
-    "main.js.map": "/first-react-project/static/js/main.6ef3a309.chunk.js.map",
-    "runtime-main.js": "/first-react-project/static/js/runtime-main.00117250.js",
-    "runtime-main.js.map": "/first-react-project/static/js/runtime-main.00117250.js.map",
-    "static/css/2.67123b20.chunk.css": "/first-react-project/static/css/2.67123b20.chunk.css",
-    "static/js/2.f981af1a.chunk.js": "/first-react-project/static/js/2.f981af1a.chunk.js",
-    "static/js/2.f981af1a.chunk.js.map": "/first-react-project/static/js/2.f981af1a.chunk.js.map",
-    "index.html": "/first-react-project/index.html",
-    "precache-manifest.e09e27e3682a13430f01c4234479a960.js": "/first-react-project/precache-manifest.e09e27e3682a13430f01c4234479a960.js",
-    "service-worker.js": "/first-react-project/service-worker.js",
-    "static/css/2.67123b20.chunk.css.map": "/first-react-project/static/css/2.67123b20.chunk.css.map",
-    "static/css/main.d1b05096.chunk.css.map": "/first-react-project/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.f981af1a.chunk.js.LICENSE.txt": "/first-react-project/static/js/2.f981af1a.chunk.js.LICENSE.txt"
+    "main.css": "/React-Panel/static/css/main.d1b05096.chunk.css",
+    "main.js": "/React-Panel/static/js/main.47bcf25e.chunk.js",
+    "main.js.map": "/React-Panel/static/js/main.47bcf25e.chunk.js.map",
+    "runtime-main.js": "/React-Panel/static/js/runtime-main.5ffea57e.js",
+    "runtime-main.js.map": "/React-Panel/static/js/runtime-main.5ffea57e.js.map",
+    "static/css/2.67123b20.chunk.css": "/React-Panel/static/css/2.67123b20.chunk.css",
+    "static/js/2.f981af1a.chunk.js": "/React-Panel/static/js/2.f981af1a.chunk.js",
+    "static/js/2.f981af1a.chunk.js.map": "/React-Panel/static/js/2.f981af1a.chunk.js.map",
+    "index.html": "/React-Panel/index.html",
+    "precache-manifest.90d137d359d521a440b49fe5bd28e1f9.js": "/React-Panel/precache-manifest.90d137d359d521a440b49fe5bd28e1f9.js",
+    "service-worker.js": "/React-Panel/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/React-Panel/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/React-Panel/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.f981af1a.chunk.js.LICENSE.txt": "/React-Panel/static/js/2.f981af1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.00117250.js",
+    "static/js/runtime-main.5ffea57e.js",
     "static/css/2.67123b20.chunk.css",
     "static/js/2.f981af1a.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.6ef3a309.chunk.js"
+    "static/js/main.47bcf25e.chunk.js"
   ]
 }
